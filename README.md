@@ -9,8 +9,8 @@ Du'a Jaradat
 
 ## Links and Resources
 
-- [Text-Classifier]()
-- [Pull Request]()
+- [Text-Classifier](https://github.com/duajaradat/text-classifier/blob/text-classifier/text_classifier.ipynb)
+- [Pull Request](https://github.com/duajaradat/text-classifier/pull/1)
 
 ---
 ## Overview
@@ -38,8 +38,7 @@ Converting an excellent tutorial from a couple years ago.
 ## Tools and Dependencies
 
 - Poetry
-- Numpy
-- Matplotlib
+- Pandas
 - Jupyterlab
 - scikit-learn
 
